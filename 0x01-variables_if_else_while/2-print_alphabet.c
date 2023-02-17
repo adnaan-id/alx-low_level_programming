@@ -7,14 +7,14 @@
 
 int main(void)
 {
-	char c;
+        char c;
 
-	c='a';
-	while
-		(c <= 'z') {
-			putchsr(c);
-			c++;
-		}
-	putchar('\n');
-	return (0);
+        c='a';
+        while
+                (c <= 'z') {
+                        putchsr(c);
+                        c++;
+                }
+        putchar('\n');
+        return (0);
 }
